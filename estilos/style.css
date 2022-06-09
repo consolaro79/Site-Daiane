@@ -2,11 +2,12 @@
 font-size: 16px;
 }
 body{
-    background-color: rgb(181, 143, 188);
+    background-color: rgb(193, 228, 210);
 }
 main{
-    background-color: rgb(248, 247, 248): 
+    margin-block-start: 3px3px 5px rgba(0, 0, 0, 0.424);
+    background-color: rgb(205, 168, 205): 
     width: 500px;
     box-shadow
-    
+
     }
